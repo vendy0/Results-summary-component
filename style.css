@@ -276,7 +276,7 @@ body {
    background-color: var(--clr-light-royal-blue);
 }
 
-@media (min-width: 765px){
+@media (min-width: 1024px){
    body{
       display: flex;
       align-items: center;
